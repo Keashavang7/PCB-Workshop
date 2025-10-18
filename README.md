@@ -1,3 +1,3 @@
 LED Chaser PCB 
 A Crucifix in the middle with the verse John 8:12 
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/bfa7ea69-7b84-4ead-bef3-94fb22d70b7c" />
+<img width="641" height="452" alt="image" src="https://github.com/user-attachments/assets/ec41dbd7-4990-4d12-9c7b-1a70b561e45e" />
